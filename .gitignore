@@ -1,6 +1,1 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+.ipynb_checkpoints/
