@@ -13,7 +13,7 @@ nbformat==4.1.0
 nibabel==2.1.0
 nipype==0.12.1
 notebook==4.2.3
-numpy==1.11.2
+numpy==1.21.0
 pandas==0.19.0
 scikit-image==0.12.3
 scikit-learn==0.18
